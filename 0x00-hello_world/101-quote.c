@@ -13,7 +13,7 @@ int main(void)
 	char quote[] = "and that piece of art is useful";
 	char teller[] = "Dora Korpar";
 	char date[] = "2015-10-19";
-	strcat(str, quote);
+	strcat(str,quote);
 	strcat(str, "\" - ");
 	strcat(str, teller);
 	strcat(str, ", ");
