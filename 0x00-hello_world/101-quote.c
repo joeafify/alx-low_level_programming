@@ -19,6 +19,6 @@ int main(void)
 	strcat(str, ", ");
 	strcat(str, date);
 	strcat(str, "\n");
-	write(STDERR_FILENO , str, 59);
+	write(STDERR_FILENO, str, 59);
 	return (1);
 }
