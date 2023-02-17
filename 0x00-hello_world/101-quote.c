@@ -9,13 +9,13 @@
  */
 int main(void)
 {
-	char str[120];	
+	char str[120];
 	char quote[] = "and that piece of art is useful";
 	char teller[] = "Dora Korpar";
 	char date[] = "2015-10-19";
 	strcat(str, quote);
 	strcat(str, "\" - ");
-	strcat(str, teller);	
+	strcat(str, teller);
 	strcat(str, ", ");
 	strcat(str, date);
 	strcat(str, "\n");
