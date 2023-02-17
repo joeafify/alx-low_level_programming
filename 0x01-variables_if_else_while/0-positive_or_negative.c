@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point 
+ * main - Entry point
  * Description: 'Display the state of a number (positive or negative)'
  * Return: Always 0 (Success)
  */
